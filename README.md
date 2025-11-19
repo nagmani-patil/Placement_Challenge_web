@@ -1,2 +1,21 @@
 # Placement_Challenge_web
 “My journey to crack placement 🚀 
+Day 1 — HTML (Level 1 – Part A)
+
+Goal: Understand the foundation of HTML structure and write your first webpage.
+
+✅ Topics Covered
+
+Introduction to HTML
+
+HTML Elements & Tags
+
+Hello World in HTML
+
+Paragraph Element
+
+Heading Elements (<h1> – <h6>)
+
+Practice Questions
+
+Boilerplate HTML Structure
